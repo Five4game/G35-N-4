@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="sp">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Five4Games.com</title>
+    <link rel="icon" type="images/ico" href="https://ibb.co/5kzqRjb">
+    
+</head>
+<body>
+    <table width="778" cellspacing="1" cellpadding="3" border="0" bgcolor="#000000" align="center">
+        <tr>
+            <td width=200 align=center bgcolor="#00FF80"><h1>Five4Games</h1><img src="https://i.ibb.co/5W6LLdM/Female-hands-touching-tablet-with-white-technology-related-icons.jpg" alt="Five4Games"></td>
+        </tr>   
+        <tr>
+            <td width=200 height= 600 align=left bgcolor=""></td>
+            <td width=200 bgcolor="#00FF80" align=left> <a href="https://ibb.co/5kzqRjb">Noticias</a>   </td>
+            <td width=200 bgcolor="#00FF80" align=center></td>
+        </tr>
+    </table>
+    
+</body>
+</html>
