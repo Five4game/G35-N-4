@@ -69,7 +69,7 @@
         .seccion-noticias,
         .seccion-equipo {
             display: flex;
-            margin-bottom: 100px;
+            margin-bottom: 20px;
         }
 
         .seccion-noticias,
